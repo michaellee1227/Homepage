@@ -95,7 +95,7 @@ footer{
   clear: both;
   color: white;
   padding: 20px 5px 20px 0px;
-  text-align: right;
+  text-align: center;
   background-color: rgba(70, 130, 180, 0.8);
 }
 @media only screen and (max-width:600px) {
